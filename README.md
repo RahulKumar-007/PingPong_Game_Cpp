@@ -4,6 +4,10 @@
 
 This Pong Game project is implemented without utilizing any game engine services. It is built using native C++ programming and does not rely on external game development frameworks or engines. The decision to forgo a game engine was made to provide a clear understanding of fundamental game development concepts and to keep the project lightweight and accessible for learning purposes.
 
+## Game Preview
+
+https://github.com/RahulKumar-007/PingPong_Game_Cpp/assets/117337265/ea1b5a52-1888-46a0-b071-8e67273bf34a
+
 ### Key Points
 
 1. **Native C++ Implementation:** The entire game logic, rendering, and input handling are implemented directly in C++ without leveraging external game engines like Unity, Unreal Engine, or Godot.
@@ -43,8 +47,5 @@ This project's decision to avoid game engine services is intentional, providing 
 - Multiplayer mode for 2 people
 - Scoring system with a winning condition (First to score 10 points wins)
 
-## Game Preview
-
-https://github.com/RahulKumar-007/PingPong_Game_Cpp/assets/117337265/ea1b5a52-1888-46a0-b071-8e67273bf34a
 
 
